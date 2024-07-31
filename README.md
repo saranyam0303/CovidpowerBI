@@ -1,7 +1,11 @@
 #Introduction
+
+
 The COVID-19 pandemic, which began in late 2019, has profoundly impacted global health, economies, and daily life. The unprecedented nature of this pandemic necessitates ongoing and comprehensive analysis to understand its trajectory, impact, and response effectiveness. This report provides a detailed analysis of COVID-19 data, focusing on key trends and patterns observed across various dimensions: country-wise, month-wise, region-wise, and population-wise.
 
 #Methodology
+
+
 PowerBI used for data cleaning, processing, and analysis. Measures are used for finding aggregate value of columns.
 1.Data Sources
 This analysis is based on data sourced from
@@ -25,6 +29,8 @@ o	Building Measures: Created measures and KPIs (Key Performance Indicators) to a
 o	Summarizing Data: Aggregated data at various levels (e.g., country, region, month) to facilitate detailed analysis.
 
 #Data Visualization
+
+
 1.	Creating Dashboards:
 o	Interactive Reports: Developed interactive dashboards using Power BI’s visualization tools, including bar charts, line graphs, and maps, to present trends and comparisons effectively.
 o	Geographical Maps: Used Power BI’s map visualizations to illustrate regional and country-wise data distribution.
