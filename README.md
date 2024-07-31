@@ -28,11 +28,13 @@ o	The datasets were imported into Power BI using its get data options. Various f
   o	Standardizing Formats: Ensured consistency in date formats, numerical data, and categorical variables.
 
 2.	Data Shaping:
+   
   o	Merging Datasets: Combined multiple data sources into a single dataset using Power BI’s merge queries functionality.
 
   o	Filtering Data: Applied filters to focus on relevant time periods, regions, and demographic groups.
 
   o	Creating Calculated Columns: Added new columns for derived metrics such as case growth rates and recovery ratios using DAX (Data Analysis Expressions).
+  
 #Data Modeling
 
 1.	Schema Design:
@@ -63,20 +65,20 @@ o	The datasets were imported into Power BI using its get data options. Various f
 
 1. Country-wise Analysis:
    
-•	Overall Trends: Discuss the trends observed in different countries. Include graphs and tables to show infection rates, recovery rates, and death rates .Total active case is 6358K,Confirmed case is 16M and Total death Case is 654K.
+    •	Overall Trends: Discuss the trends observed in different countries. Include graphs and tables to show infection rates, recovery rates, and death rates .Total active case is 6358K,Confirmed case is 16M and Total death Case is 654K.
 
-•	Top Affected Countries: Highlight countries with the highest number of cases reported in America-WHO Region and lowest number in Western Pacific region. 
+    •	Top Affected Countries: Highlight countries with the highest number of cases reported in America-WHO Region and lowest number in Western Pacific region. 
 
-3. Month-wise Analysis:
+2. Month-wise Analysis:
    
-•	Case Trends: Show how the number of cases has evolved month-by-month. Use Stacked area chart and Table to illustrate trends.
+    •	Case Trends: Show how the number of cases has evolved month-by-month. Use Stacked area chart and Table to illustrate trends.
 
-•	Seasonal Effects: The  report from 22-1-2020 to 27-07-2020.July month shows highest active cases, death case more on April and Recovery case highest on April.
+    •	Seasonal Effects: The  report from 22-1-2020 to 27-07-2020.July month shows highest active cases, death case more on April and Recovery case highest on April.
 
-5. Region-wise Analysis:
+3. Region-wise Analysis:
    
-•	Regional Distribution:The American region have highest active cases and new active death case is 3887 and 3699 Recovered cases.
+    •	Regional Distribution:The American region have highest active cases and new active death case is 3887 and 3699 Recovered cases.
 
-7. Population-wise Analysis:
+4. Population-wise Analysis:
    
-•	Infection Rates by Population Density: India has the highest population compared to other regions, and the rate of reported cases is moderate. Active cases highest in America,new cases reported more in Mexico and death case highest in America.
+     •	Infection Rates by Population Density: India has the highest population compared to other regions, and the rate of reported cases is moderate. Active cases highest in America,new cases reported more in Mexico and death case highest in America.
