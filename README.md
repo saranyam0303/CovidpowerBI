@@ -10,12 +10,12 @@ PowerBI used for data cleaning, processing, and analysis. Measures are used for 
 
 1.Data Sources
 
-This analysis is based on data sourced from
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+   This analysis is based on data sourced from
+   https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
 2.Data Import:
 
-o	The datasets were imported into Power BI using its get data options. Various formats such as CSV, Excel, and direct database connections use excel format for importing data.
+   o	The datasets were imported into Power BI using its get data options. Various formats such as CSV, Excel, and direct database connections use excel format for importing data.
 
 #Data Transformation
 
